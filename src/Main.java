@@ -1,5 +1,5 @@
 public class Main{
-
+ 
     public static void main(String[] args){
         //Define a blank array
         Student [] tableau = new Student[6];
